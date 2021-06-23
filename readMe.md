@@ -1,5 +1,8 @@
 # ThreeKingdomCardGame
 
+# Environment
+![version of python](https://img.shields.io/badge/python-3.8.6-yellow)
+
 #### 介绍
 看了港片无双三国以后，又回想起了小时候的三国梦，因此想要做一个属于自己的三国卡牌游戏。圆了自己童年时期的梦。
 
